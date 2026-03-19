@@ -78,20 +78,20 @@ Integrated access points into switch infrastructure
 
 ----------
 # 🧪 Validation & Testing
-<b>
-- Verified DHCP assignment (ipconfig)
-- Tested inter-VLAN communication (ping between VLANs)
-- Confirmed OSPF routes (show ip route)
-- Verified VPN configuration and tunnel establishment
-- Tested secure communication between HQ and Branch networks
-<b/>
+
+- <b>Verified DHCP assignment (ipconfig)<b/>
+- <b>Tested inter-VLAN communication (ping between VLANs)<b/>
+- <b>Confirmed OSPF routes (show ip route)<b/>
+- <b>Verified VPN configuration and tunnel establishment<b/>
+- <b>Tested secure communication between HQ and Branch networks<b/>
+
 
 --------
 # 📈 Future Improvements
-<b>
-- Implement ACLs to restrict guest network access
-- Introduce redundant WAN links with OSPF failover
-- Expand to multi-area OSPF design
-- Add NAT for internet simulation
-<b/>
+
+- <b>Implement ACLs to restrict guest network access<b/>
+- <b>Introduce redundant WAN links with OSPF failover<b/>
+- <b>Expand to multi-area OSPF design<b/>
+- <b>Add NAT for internet simulation<b/>
+
 
