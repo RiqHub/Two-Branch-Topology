@@ -86,3 +86,12 @@ Integrated access points into switch infrastructure
 - Tested secure communication between HQ and Branch networks
 <b/>
 
+--------
+# 📈 Future Improvements
+<b>
+- Implement ACLs to restrict guest network access
+- Introduce redundant WAN links with OSPF failover
+- Expand to multi-area OSPF design
+- Add NAT for internet simulation
+<b/>
+
