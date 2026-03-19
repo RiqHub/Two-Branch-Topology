@@ -1,5 +1,5 @@
 # Two-Branch-Topology
-Designed and implemented a simulated enterprise network in Cisco Packet Tracer connecting a headquarters (HQ) and a branch office. The lab incorporates VLAN segmentation, inter-VLAN routing, dynamic routing with OSPF, DHCP services, wireless networking, and a secure site-to-site VPN for encrypted communication.
+Designed and implemented a simulated enterprise network in Cisco Packet Tracer connecting a headquarters (HQ) and a branch office. The lab incorporates VLAN segmentation, inter-VLAN routing, dynamic routing with OSPF, DHCP services, wireless networking, and a secure site-to-site VPN for encrypted communication. [File Here:](https://github.com/RiqHub/Two-Branch-Topology/blob/main/Two%20Branch%20Top.pkt) 
 
 <img width="1466" height="633" alt="image" src="https://github.com/user-attachments/assets/c4329393-4f3d-4f8d-add3-0f19b5d0c7de" />
 
